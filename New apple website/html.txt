@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+   <header class="main-header">
+    <nav class="nav-content">
+        <a href="#" class="nav-logo-link">
+            <img src="images/header-logo.png" alt="Apple Logo" class="nav-logo-img">
+        </a>
+        <a href="#">Store</a>
+        <a href="#">Mac</a>
+        <a href="#">iPad</a>
+        <a href="#">iPhone</a>
+        <a href="#">Watch</a>
+        <a href="#">Support</a>
+    </nav>
+    </header>
+
+   <section class="section iphone-section">
+    <div class="hero-text-wrapper">
+        <h2>iPhone</h2>
+        <h3>Meet the latest iPhone lineup.</h3>
+        <div class="cta-container">
+            <a href="#" class="btn-blue">Learn more</a>
+            <a href="#" class="link-blue">Shop iPhone &gt;</a>
+        </div>
+    </div>
+    </section>
+
+    <section class="section fathers-day-section">
+        <h2>Father's Day</h2>
+        <h3>June 21 is coming up. Find the perfect gift.</h3>
+        <div class="cta-container">
+            <a href="#" class="btn-blue">Shop</a>
+        </div>
+        <img src="images/fathers-day-art.png" alt="Father's Day Gifts" class="hero-img">
+    </section>
+
+    <section class="section college-section">
+        <h2>Apple for College</h2>
+        <h3>Mac and iPad. Major in any field.</h3>
+        <div class="cta-container">
+            <a href="#" class="btn-blue">Learn more</a>
+        </div>
+        <img src="images/college-mac-ipad.png" alt="Mac and iPad for College" class="hero-img">
+    </section>
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <h2>MacBook Air</h2>
+            <h3>Now supercharged by M3.</h3>
+            <div class="cta-container">
+                <a href="#" class="btn-blue">Learn more</a>
+                <a href="#" class="link-blue">Buy &gt;</a>
+            </div>
+            <img src="images/macbook-air.png" alt="MacBook Air" class="grid-img">
+        </div>
+        <div class="grid-item">
+            <h2>iPad air</h2>
+            <h3>Now supercharged by M2.</h3>
+            <div class="cta-container">
+                <a href="#" class="btn-blue">Learn more</a>
+                <a href="#" class="link-blue">Buy &gt;</a>
+            </div>
+            <img src="images/ipad-air.png" alt="iPad Air" class="grid-img">
+        </div>
+    </div>
+
+    <div class="grid-container">
+        <div class="grid-item dark-bg">
+            <h2>MacBook Pro</h2>
+            <h3>Now with M3, M3 Pro, and M3 Max.</h3>
+            <div class="cta-container">
+                <a href="#" class="btn-blue">Learn more</a>
+                <a href="#" class="link-blue">Buy &gt;</a>
+            </div>
+            <img src="images/macbook-pro.png" alt="MacBook Pro" class="grid-img">
+        </div>
+        <div class="grid-item">
+            <h2>WATCH SERIES 11</h2>
+            <h3>The ultimate way to watch your health.</h3>
+            <div class="cta-container">
+                <a href="#" class="btn-blue">Learn more</a>
+                <a href="#" class="link-blue">Buy &gt;</a>
+            </div>
+            <img src="images/apple-watch.png" alt="Apple Watch Series 11" class="grid-img">
+        </div>
+    </div>
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="images/apple-card-logo.png" alt="Apple Card" class="logo-heading">
+            <h3>Special new Apple Card and AirPods Pro 2 offer.</h3>
+            <div class="cta-container">
+                <a href="#" class="link-blue">Learn more &gt;</a>
+            </div>
+            <img src="images/apple-card-promo.png" alt="AirPods and Apple Card Promo" class="grid-img">
+            [6/14/2026 5:54 PM] .:
+             </div>
+        <div class="grid-item">
+            <h2>Trade In</h2>
+            <h3>Get up to $180-$650 in credit when you trade in iPhone 11 or higher.</h3>
+            <div class="cta-container">
+                <a href="#" class="btn-blue">Get your estimate</a>
+            </div>
+            <img src="images/trade-in-promo.png" alt="Trade In Program" class="grid-img">
+        </div>
+    </div>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="disclaimer">
+                <p>1. Subject to credit approval. The cost of AirPods Pro 2 requires qualifying purchases to receive special offer incentives.</p>
+            </div>
+            
+            <div class="footer-links-grid">
+                <div class="footer-col">
+                    <h4>Shop and Learn</h4>
+                    <ul>
+                        <li><a href="#">Store</a></li>
+                        <li><a href="#">Mac</a></li>
+                        <li><a href="#">iPad</a></li>
+                        <li><a href="#">iPhone</a></li>
+                        <li><a href="#">Watch</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Account</h4>
+                    <ul>
+                        <li><a href="#">Manage Your Apple ID</a></li>
+                        <li><a href="#">Apple Store Account</a></li>
+                        <li><a href="#">iCloud.com</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Apple Store</h4>
+                    <ul>
+                        <li><a href="#">Find a Store</a></li>
+                        <li><a href="#">Genius Bar</a></li>
+                        <li><a href="#">Today at Apple</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>For Business</h4>
+                    <ul>
+                        <li><a href="#">Apple and Business</a></li>
+                        <li><a href="#">Shop for Business</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Apple Values</h4>
+                    <ul>
+                        <li><a href="#">Accessibility</a></li>
+                        <li><a href="#">Education</a></li>
+                        <li><a href="#">Environment</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
